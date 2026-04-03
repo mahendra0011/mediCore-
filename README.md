@@ -62,10 +62,8 @@ A comprehensive Hospital Management System (HMS) built with the MERN stack. Medi
 | Layer | Technology |
 |-------|------------|
 | **Frontend** | React 18, Vite, Tailwind CSS |
-| **UI Components** | shadcn/ui, Radix UI, Lucide Icons |
-| **State Management** | TanStack Query v5 |
+| **UI Components** | shadcn/ui, Lucide Icons |
 | **Routing** | React Router v6 |
-| **Animations** | Framer Motion |
 | **Charts** | Recharts |
 | **Backend** | Node.js, Express.js |
 | **Database** | MongoDB, Mongoose |
